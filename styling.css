@@ -64,9 +64,10 @@ body
 }
 #banner-home
 {
-   position:absolute;
-   color: white;
-   z-index:20;
-   font-size:30px;
-   margin: 150px 400px 25px 500px;
+    position:absolute;
+    color: white;
+    z-index:20;
+    font-size:30px;
+    text-align:center;
+    margin: 13% 20% 15% 45%;
 }
